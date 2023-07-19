@@ -33,14 +33,14 @@ You will be greeted once with a [smart screen warning](https://raw.githubusercon
 
 ## Screenshots
 
-[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/mouse.png)](<https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/mouse.png>)
-[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/ctrl_scroll.png)](<https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/ctrl_scroll.png>)
-[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/example1.png)](<https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/example1.png>)
-[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/comic_sans_ms.png)](<https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/comic_sans_ms.png>)
-[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/resizemode.png.png)](<https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/resizemode.png.png>)
-[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/bottom_right.png)](<https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/bottom_right.png>)
-[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/bottom_center.png)](<https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/bottom_center.png>)
-[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/settings.png)](<https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/settings.png>)
+[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/mouse.png)](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/mouse.png)
+[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/ctrl_scroll.png)](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/ctrl_scroll.png)
+[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/example1.png)](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/example1.png)
+[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/comic_sans_ms.png)](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/comic_sans_ms.png)
+[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/resizemode.png)](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/resizemode.png)
+[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/bottom_right.png)](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/bottom_right.png)
+[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/bottom_center.png)](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/bottom_center.png)
+[![Screenshot](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/settings.png)](https://raw.githubusercontent.com/Phaiax/Key-n-Stroke/master/Screenshots/settings.png)
 
 ## Releases
 
